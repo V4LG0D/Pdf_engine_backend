@@ -1,0 +1,9 @@
+# Entornos y caché
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos de prueba y documentos
+*.pdf
+*.docx
+temp/
